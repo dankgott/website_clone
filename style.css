@@ -1,0 +1,103 @@
+body{background-color:aliceblue;
+    margin: 0px;
+    
+}
+
+.title{
+    color: black;
+}
+
+
+.fontc{
+    color: black;
+    position: relative;
+    left: 10px;
+    
+}
+div{
+    color: blanchedalmond;
+}
+
+pre{
+    color: aliceblue;
+    size: 25px;
+    font-style: italic;
+}
+
+
+#search{
+    color: darkgray;
+    border-radius: 15px;
+    position: relative;
+    left: 1250px;
+    top: -80px;
+}
+#button{
+    color: black;
+    border-radius: 15px;
+    position: relative;
+    left: 1250px;
+    top: -80px;
+}
+#size{
+margin-top: 50px;
+padding: auto;
+margin-left: 500px;
+}
+
+table{
+    color:black;
+    font-style: inherit;
+    size: 25px;
+    border: 15px;
+}
+.resize-video{
+    width: 600px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: aliceblue;
+    
+}
+#space{
+    background-color:khaki;
+}
+head{
+    background-color: bisque;
+}
+#mail{
+    border-radius: 25px;
+}
+#cmts{
+    border-radius: 15px;
+    
+    border-bottom: 15px;
+}
+.button{
+    border: 25px;
+    border-radius: 15px;
+} 
+.barrio-regular {
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+  }
+.barrio-regular h4{
+    text-decoration: none;
+    display: inline-block;
+}  
+.bottom{
+    background-color: white;
+    left: 100px;
+}  
+
+#top-icon{
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 70%;
+}
+.marge{
+    margin-top: -70px;
+    margin-left: -700px;
+    position: fix;
+}
